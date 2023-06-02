@@ -1,0 +1,13 @@
+name: ${project.build.finalName}
+author: deathibring
+description: OresOfFortune's Infraction System.
+version: ${project.version}
+api-version: 1.19
+load: POSTWORLD
+main: dev.oof.punish.PunishmentsCore
+commands:
+  kick:
+  ban:
+  mute:
+  phistory:
+  premove:
